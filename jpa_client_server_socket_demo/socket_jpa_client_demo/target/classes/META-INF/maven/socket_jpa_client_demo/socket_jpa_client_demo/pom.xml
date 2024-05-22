@@ -3,4 +3,11 @@
   <groupId>socket_jpa_client_demo</groupId>
   <artifactId>socket_jpa_client_demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>socket_jpa_server_demo</groupId>
+  		<artifactId>socket_jpa_server_demo</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
